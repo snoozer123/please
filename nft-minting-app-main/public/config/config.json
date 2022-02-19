@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb73D87020EAa6ee1b63c6ae845653Dd53ea81C02",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xb73d87020eaa6ee1b63c6ae845653dd53ea81c02",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Alaska Walrus",
+  "SYMBOL": "AWNFT",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/alaskawalrus",
+  "SHOW_BACKGROUND": true
+}
